@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun!;Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 
-<!-- Banner Image (replaced with a vibrant, data-themed animated GIF for better engagement) -->
+<!-- Banner Image (changed to a new animated GIF: multi-screen data analysis theme for a fresh look) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Data Analyst Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Data Analyst Banner" width="100%" />
 </p>
 
 <!-- Profile Views -->
@@ -108,7 +108,7 @@ Check it out for helpful guides and tutorials!
   <a href="https://medium.com/@tharunragu2001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium" /></a>
 </p>
 
-<!-- Contribution Snake for added animation -->
+<!-- Contribution Snake (changed to dark theme for better visibility and modern look; update your workflow outputs to include ?palette=github-dark if needed) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R-Tharun/R-Tharun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/R-Tharun/R-Tharun/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
 </p>
