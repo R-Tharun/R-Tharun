@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Tharun;Aspiring+Data+Analyst+Turning+Data+into+Insights+with+Excel%2C+SQL%2C+Python+%26+ML" alt="Typing SVG" />
 </p>
 
-![Tharun's Banner](https://your-banner-url-here.gif) <!-- Upload a custom animated banner GIF (e.g., data charts animating) to your repo or Imgur for more dynamism. -->
+![Tharun's Banner](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R-Tharun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,7 +18,7 @@
 - 📫 Reach me at: tharunragu2001@gmail.com
 
 ### 🛠 Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://github.com/R-Tharun/Python" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -64,5 +64,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tharun-ragu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://medium.com/@tharunragu2001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <!-- Add X/Twitter if active: <a href="https://x.com/tharun_ragu" target="_blank"><img src="twitter-icon-url" alt="X" height="30" width="40" /></a> -->
+  <!-- Add X/Twitter if active: <a href="https://x.com/tharun_ragu" target="_blank"><img src="twitter-icon-url" alt="X" height="30" width="40" /></a> -->
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/R-Tharun/R-Tharun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
