@@ -1,9 +1,9 @@
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun!;Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun!;Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 
-<!-- Modern Banner -->
+<!-- Banner Image (replace with your own if needed) -->
 <p align="center">
   <img src="https://github.com/R-Tharun/R-Tharun/assets/74038190/aa91cf71-b116-4fd4-bab8-42f632be38ef" alt="Data Analyst Banner" width="100%" />
 </p>
@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="40" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
 </p>
@@ -95,13 +95,5 @@ Check it out for helpful guides and tutorials!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tharun-ragu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@tharunragu2001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium" /></a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/R-Tharun/R-Tharun/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <a href="https://medium.com/@tharunragu2001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium" /></a>
 </p>
