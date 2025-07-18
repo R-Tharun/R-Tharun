@@ -1,11 +1,11 @@
-<!-- Centered Intro Text with Typing SVG -->
+<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun!;Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 
-<!-- Banner Image -->
+<!-- Modern Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Tharun's Banner" width="100%" />
+  <img src="https://github.com/R-Tharun/R-Tharun/assets/74038190/aa91cf71-b116-4fd4-bab8-42f632be38ef" alt="Data Analyst Banner" width="100%" />
 </p>
 
 <!-- Profile Views -->
@@ -21,7 +21,7 @@
 - 🛠 Skilled in *Excel, SQL, Python, and Power BI*.
 - 🔍 Focused on data cleaning, exploratory data analysis, and visualization.
 - 🤖 Exploring *Machine Learning* to solve real-world business problems.
-- 🧠 I enjoy writing on Medium to explain concepts in *data analytics* and *ML*.
+- ✍ I write technical blogs on *Medium* explaining data and ML concepts clearly.
 - 💡 I believe every dataset has a story—my job is to tell it well.
 - 📫 Reach me at: *tharunragu2001@gmail.com*
 
