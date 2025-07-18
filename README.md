@@ -16,16 +16,32 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@tharunragu2001).
 - 📫 Reach me at: tharunragu2001@gmail.com
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://github.com/R-Tharun/Python" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/R-Tharun/Python" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/R-Tharun/ML" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/R-Tharun/Python" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/R-Tharun/SQL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/R-Tharun/PowerBI" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
@@ -39,9 +55,9 @@
 
 ### 📂 Repositories & Projects
 - **[SQL Challenges](https://github.com/R-Tharun/SQL)**: Solutions to a series of SQL challenges over multiple weeks, mastering database design, data aggregation, optimization, and complex queries using MySQL. Includes case studies like Danny's Diner (dinner reservations), Pizza Runner (delivery sales analysis), Foodie-Fi (subscription metrics), Data Bank (customer transactions), and Data Mart (retail sales reporting). Techniques: JOINs, subqueries, window functions (e.g., RANK(), DENSE_RANK()), GROUP BY, HAVING, ETL processes, and ACID compliance.
-- **[Machine Learning Projects](https://github.com/R-Tharun/ML)**: Dedicated to machine learning experiments and models. Currently empty—great for adding projects like predictive modeling with Scikit-Learn (e.g., sentiment analysis or classification tasks improving accuracy through feature engineering and data cleaning).
-- **[Power BI Dashboards](https://github.com/R-Tharun/PowerBI)**: Collection of interactive visualizations and reports using Microsoft Power BI. Currently empty—ideal for uploading .pbix files, dashboards (e.g., sales analytics identifying revenue trends), and screenshots to showcase data storytelling.
-- **[Python Scripts & Notebooks](https://github.com/R-Tharun/Python)**: Python-based data projects for cleaning, analysis, and visualization. Currently empty—perfect for adding scripts or Jupyter notebooks (e.g., data processing with Pandas, visualizations in Seaborn, or simple ML prototypes).
+- *[Machine Learning Projects](https://github.com/R-Tharun/ML)*: Dedicated to machine learning experiments and models. Currently empty—great for adding projects like predictive modeling with Scikit-Learn (e.g., sentiment analysis or classification tasks improving accuracy through feature engineering and data cleaning).
+- *[Power BI Dashboards](https://github.com/R-Tharun/PowerBI)*: Collection of interactive visualizations and reports using Microsoft Power BI. Currently empty—ideal for uploading .pbix files, dashboards (e.g., sales analytics identifying revenue trends), and screenshots to showcase data storytelling.
+- *[Python Scripts & Notebooks](https://github.com/R-Tharun/Python)*: Python-based data projects for cleaning, analysis, and visualization. Currently empty—perfect for adding scripts or Jupyter notebooks (e.g., data processing with Pandas, visualizations in Seaborn, or simple ML prototypes).
 
 ### 🔗 Connect with Me
 <p align="center">
