@@ -5,7 +5,7 @@
 
 <!-- Banner Image (replace with your own if needed) -->
 <p align="center">
-  <img src="https://github.com/R-Tharun/R-Tharun/assets/74038190/aa91cf71-b116-4fd4-bab8-42f632be38ef" alt="Data Analyst Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/R-Tharun/R-Tharun/main/assets/banner.jpg" alt="Data Analyst Banner" width="100%" />
 </p>
 
 <!-- Profile Views -->
