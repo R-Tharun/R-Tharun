@@ -1,7 +1,8 @@
-![Tharun's Banner](https://your-banner-url-here.gif) <!-- Upload a custom banner GIF/image (e.g., data analytics theme) to your repo or Imgur. -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Tharun;Aspiring+Data+Analyst+Turning+Data+into+Insights+with+Excel%2C+SQL%2C+Python+%26+ML" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights with Excel, SQL, Python & ML</h3>
+![Tharun's Banner](https://your-banner-url-here.gif) <!-- Upload a custom animated banner GIF (e.g., data charts animating) to your repo or Imgur for more dynamism. -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R-Tharun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
