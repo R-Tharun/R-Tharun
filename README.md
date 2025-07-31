@@ -30,7 +30,7 @@
 - ✍ *Content Creator*: Writing technical blogs on [Medium](https://medium.com/@tharunragu2001) to share knowledge
 - 💡 *Philosophy: *"Every dataset tells a story—I help uncover the narrative hidden within the numbers"
 
----
+--
 
 ## 🛠 Technology Stack
 
