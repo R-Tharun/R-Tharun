@@ -170,20 +170,6 @@ I regularly share my knowledge and learning journey through technical articles:
 
 ---
 
-## 🎯 Current Focus Areas
-
-python
-current_learning = {
-    "Advanced Analytics": ["Time Series Analysis", "Statistical Modeling"],
-    "Cloud Platforms": ["Azure Data Factory", "AWS Analytics Services"],
-    "Programming": ["Advanced Python", "R Programming"],
-    "Visualization": ["D3.js", "Advanced Power BI"],
-    "Certifications": ["Microsoft Azure Data Analyst", "Google Analytics"]
-}
-
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
